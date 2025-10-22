@@ -1,0 +1,162 @@
+[
+  {
+    "Fiscal_Year": 2020,
+    "Fiscal_Quarter": "Q1",
+    "Report_Date": "2020-01-28",
+    "Revenue_Actual": 91.8,
+    "Revenue_Expected": 89.0,
+    "Revenue_Surprise_Pct": "+3.15%"
+  },
+  {
+    "Fiscal_Year": 2020,
+    "Fiscal_Quarter": "Q2",
+    "Report_Date": "2020-04-30",
+    "Revenue_Actual": 58.3,
+    "Revenue_Expected": 56.6,
+    "Revenue_Surprise_Pct": "+3.01%"
+  },
+  {
+    "Fiscal_Year": 2020,
+    "Fiscal_Quarter": "Q3",
+    "Report_Date": "2020-07-30",
+    "Revenue_Actual": 59.7,
+    "Revenue_Expected": 57.9,
+    "Revenue_Surprise_Pct": "+3.11%"
+  },
+  {
+    "Fiscal_Year": 2020,
+    "Fiscal_Quarter": "Q4",
+    "Report_Date": "2020-10-29",
+    "Revenue_Actual": 64.7,
+    "Revenue_Expected": 62.8,
+    "Revenue_Surprise_Pct": "+3.02%"
+  },
+  {
+    "Fiscal_Year": 2021,
+    "Fiscal_Quarter": "Q1",
+    "Report_Date": "2021-01-27",
+    "Revenue_Actual": 111.4,
+    "Revenue_Expected": 108.1,
+    "Revenue_Surprise_Pct": "+3.05%"
+  },
+  {
+    "Fiscal_Year": 2021,
+    "Fiscal_Quarter": "Q2",
+    "Report_Date": "2021-04-28",
+    "Revenue_Actual": 89.6,
+    "Revenue_Expected": 86.9,
+    "Revenue_Surprise_Pct": "+3.11%"
+  },
+  {
+    "Fiscal_Year": 2021,
+    "Fiscal_Quarter": "Q3",
+    "Report_Date": "2021-07-27",
+    "Revenue_Actual": 81.4,
+    "Revenue_Expected": 79.0,
+    "Revenue_Surprise_Pct": "+3.04%"
+  },
+  {
+    "Fiscal_Year": 2021,
+    "Fiscal_Quarter": "Q4",
+    "Report_Date": "2021-10-28",
+    "Revenue_Actual": 83.4,
+    "Revenue_Expected": 80.9,
+    "Revenue_Surprise_Pct": "+3.09%"
+  },
+  {
+    "Fiscal_Year": 2022,
+    "Fiscal_Quarter": "Q1",
+    "Report_Date": "2022-01-27",
+    "Revenue_Actual": 123.9,
+    "Revenue_Expected": 120.2,
+    "Revenue_Surprise_Pct": "+3.08%"
+  },
+  {
+    "Fiscal_Year": 2022,
+    "Fiscal_Quarter": "Q2",
+    "Report_Date": "2022-04-28",
+    "Revenue_Actual": 97.3,
+    "Revenue_Expected": 94.4,
+    "Revenue_Surprise_Pct": "+3.07%"
+  },
+  {
+    "Fiscal_Year": 2022,
+    "Fiscal_Quarter": "Q3",
+    "Report_Date": "2022-07-28",
+    "Revenue_Actual": 82.9,
+    "Revenue_Expected": 80.4,
+    "Revenue_Surprise_Pct": "+3.11%"
+  },
+  {
+    "Fiscal_Year": 2022,
+    "Fiscal_Quarter": "Q4",
+    "Report_Date": "2022-10-27",
+    "Revenue_Actual": 90.1,
+    "Revenue_Expected": 87.4,
+    "Revenue_Surprise_Pct": "+3.09%"
+  },
+  {
+    "Fiscal_Year": 2023,
+    "Fiscal_Quarter": "Q1",
+    "Report_Date": "2023-02-02",
+    "Revenue_Actual": 117.2,
+    "Revenue_Expected": 113.7,
+    "Revenue_Surprise_Pct": "+3.08%"
+  },
+  {
+    "Fiscal_Year": 2023,
+    "Fiscal_Quarter": "Q2",
+    "Report_Date": "2023-05-04",
+    "Revenue_Actual": 94.8,
+    "Revenue_Expected": 92.0,
+    "Revenue_Surprise_Pct": "+3.04%"
+  },
+  {
+    "Fiscal_Year": 2023,
+    "Fiscal_Quarter": "Q3",
+    "Report_Date": "2023-08-03",
+    "Revenue_Actual": 81.8,
+    "Revenue_Expected": 79.3,
+    "Revenue_Surprise_Pct": "+3.15%"
+  },
+  {
+    "Fiscal_Year": 2023,
+    "Fiscal_Quarter": "Q4",
+    "Report_Date": "2023-11-02",
+    "Revenue_Actual": 89.5,
+    "Revenue_Expected": 86.8,
+    "Revenue_Surprise_Pct": "+3.11%"
+  },
+  {
+    "Fiscal_Year": 2024,
+    "Fiscal_Quarter": "Q1",
+    "Report_Date": "2024-02-01",
+    "Revenue_Actual": 119.6,
+    "Revenue_Expected": 116.0,
+    "Revenue_Surprise_Pct": "+3.10%"
+  },
+  {
+    "Fiscal_Year": 2024,
+    "Fiscal_Quarter": "Q2",
+    "Report_Date": "2024-05-02",
+    "Revenue_Actual": 90.8,
+    "Revenue_Expected": 88.1,
+    "Revenue_Surprise_Pct": "+3.06%"
+  },
+  {
+    "Fiscal_Year": 2024,
+    "Fiscal_Quarter": "Q3",
+    "Report_Date": "2024-08-01",
+    "Revenue_Actual": 85.0,
+    "Revenue_Expected": 82.5,
+    "Revenue_Surprise_Pct": "+3.03%"
+  },
+  {
+    "Fiscal_Year": 2024,
+    "Fiscal_Quarter": "Q4",
+    "Report_Date": "2024-10-31",
+    "Revenue_Actual": 92.1,
+    "Revenue_Expected": 89.3,
+    "Revenue_Surprise_Pct": "+3.14%"
+  }
+]
